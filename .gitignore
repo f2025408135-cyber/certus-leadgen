@@ -1,0 +1,12 @@
+# PII / credentials — never commit
+marketing/leads/
+credentials.json
+*.xlsx
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# git
+.git/

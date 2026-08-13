@@ -1,0 +1,8 @@
+{
+  "_comment": "Copy this file to marketing/leads/sender_config.json and fill in. NEVER commit credentials.json.",
+  "sender_name": "Your First Name",
+  "sender_line": "Student at <Your University>",
+  "question": "Was war bei der Angebotserstellung dieses Auftrags der aufwendigste Teil?",
+  "signature_name": "Your Full Name",
+  "phone": "+00 000 0000000"
+}
